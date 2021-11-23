@@ -1,0 +1,13 @@
+// Auth
+export const LOGIN = 'LOGIN'
+export const LOGOUT = 'LOGOUT'
+
+// Products
+export const PRODUCTS_FETCHED = 'PRODUCTS_FETCHED'
+export const PRODUCTS_TOGGLE_IS_LOADING = 'PRODUCTS/TOGGLE_IS_LOADING'
+
+// Cart
+export const ADD_TO_CART = 'ADD_TO_CART'
+export const REMOVE_ITEM_FROM_CART = 'REMOVE_ITEM_FROM_CART'
+export const CLEAR_CART_AFTER_LOGOUT = 'CLEAR_CART_AFTER_LOGOUT'
+export const UPDATE_CART = 'UPDATE_CART'
